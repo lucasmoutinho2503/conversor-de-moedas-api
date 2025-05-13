@@ -33,5 +33,5 @@ Este é um projeto simples de **conversor de moedas** desenvolvido em Java, util
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/conversor-moeda-java.git
+git clone https://github.com/lucasmoutinho2503/conversor-moeda-java.git
 cd conversor-moeda-java
